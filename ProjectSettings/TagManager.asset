@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Bullet
+  - Gas
+  - Ore
+  - Worker
+  - Tier1
+  - Tier2
+  - Tier3
+  - MainBase
+  - Supply Depot
+  - Lap
+  - Obj1
+  - Obj2
+  - Obj3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Unit
+  - Ground
+  - Enemy
+  - placementLayerMask
+  - Ore
+  - Building
+  - GridMesh
+  - Air
+  - YuME_TileMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

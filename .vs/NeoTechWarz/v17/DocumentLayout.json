@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|e:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\neotechwarz\\assets\\script\\winmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\winmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|e:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\neotechwarz\\assets\\script\\ui\\uibuttonmapiing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui\\uibuttonmapiing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|e:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\neotechwarz\\assets\\script\\system\\rtsunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\system\\rtsunitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|e:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\neotechwarz\\assets\\script\\enemyai\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyai\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\assets\\script\\soundcontrol\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\soundcontrol\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\assets\\script\\unit\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unit\\unitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\assets\\script\\unit\\unithealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unit\\unithealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\assets\\script\\unit\\attackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EBB0F50-3D45-4099-77F7-AF8E1F0FFE6F}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\unit\\attackrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinMission.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\WinMission.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\WinMission.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\WinMission.cs",
+              "RelativeToolTip": "Assets\\Script\\WinMission.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:30:02.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UiButtonMapiing.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Ui\\UiButtonMapiing.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Ui\\UiButtonMapiing.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Ui\\UiButtonMapiing.cs",
+              "RelativeToolTip": "Assets\\Script\\Ui\\UiButtonMapiing.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:28:11.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RTSUnitController.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\System\\RTSUnitController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\System\\RTSUnitController.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\System\\RTSUnitController.cs",
+              "RelativeToolTip": "Assets\\Script\\System\\RTSUnitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:27:45.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\EnemyAi\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyAi\\EnemyAI.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\EnemyAi\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyAi\\EnemyAI.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAABIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T11:39:38.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\SoundControl\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SoundControl\\AudioManager.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\SoundControl\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SoundControl\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:26:15.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitHealth.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Unit\\UnitHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Unit\\UnitHealth.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Unit\\UnitHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\Unit\\UnitHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:07:09.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttackRange.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Unit\\AttackRange.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Unit\\AttackRange.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Unit\\AttackRange.cs",
+              "RelativeToolTip": "Assets\\Script\\Unit\\AttackRange.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:19:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitController.cs",
+              "DocumentMoniker": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Unit\\UnitController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Unit\\UnitController.cs",
+              "ToolTip": "E:\\\uAC8C\uC784\uC81C\uC791\\\uC720\uB2C8\uD2F0 \uD30C\uC77C\\NeoTechWarz\\Assets\\Script\\Unit\\UnitController.cs",
+              "RelativeToolTip": "Assets\\Script\\Unit\\UnitController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0sBAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T02:08:07.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
