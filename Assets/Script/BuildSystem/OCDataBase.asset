@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8bb90641c5c3d04194a2962d7fc8b22, type: 3}
+  m_Name: OCDataBase
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: 1tier
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 3, y: 3}
+    <Prefab>k__BackingField: {fileID: 6979439013574987159, guid: 788a69a1b2a70244a845f79ae4895ca7, type: 3}
+  - <Name>k__BackingField: 2tier
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 3, y: 3}
+    <Prefab>k__BackingField: {fileID: 1524795142194153303, guid: 3ac00c39ea03eb8408e3ef5534fae4c0, type: 3}
+  - <Name>k__BackingField: 3tier
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 4606917738391197512, guid: a7e87c81f07a5a547a83575752c6f1b0, type: 3}
+  - <Name>k__BackingField: MainBase
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 3, y: 3}
+    <Prefab>k__BackingField: {fileID: 2196180962827863143, guid: c7a5d914844d95f438c95585563115c3, type: 3}
+  - <Name>k__BackingField: Supply Depot
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 6979439013574987159, guid: 5b476186102d75c4e9452af6fb219c08, type: 3}
+  - <Name>k__BackingField: Lap
+    <ID>k__BackingField: 6
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 6979439013574987159, guid: 4351c4197d9e070469af4c0fe0e6e08b, type: 3}
+  - <Name>k__BackingField: Air
+    <ID>k__BackingField: 7
+    <Size>k__BackingField: {x: 0, y: 0}
+    <Prefab>k__BackingField: {fileID: 1232103344297680582, guid: 69905a72f14c75e4c9ab067665a9bf20, type: 3}
+  - <Name>k__BackingField: constructionObj
+    <ID>k__BackingField: 8
+    <Size>k__BackingField: {x: 0, y: 0}
+    <Prefab>k__BackingField: {fileID: 8346724652426239375, guid: b41cbb5b37a4ccd45badefb4101f04ca, type: 3}
