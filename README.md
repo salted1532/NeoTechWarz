@@ -15,8 +15,11 @@
 
 ### 주요 세력
 - **네오 테라 연합(NTA):** 민주주의와 평등을 기치로 한 연합, 방어와 균형 잡힌 전투력을 자랑.
+  
   <img src="images/네오테라연합로고.png" alt="Image Alt Text" width="500" height="500" />
+  
 - **오메가 코퍼레이션(OC):** 자본주의와 효율성을 추구하는 기업, 강력한 화력을 기반으로 적을 압도.
+
   <img src="images/오메가오퍼레이션로고.png" alt="Image Alt Text" width="500" height="500" />
 
 ---
@@ -43,6 +46,7 @@
 ### 2. **2미션: 첫 충돌**
 
    <img src="images/미션2.png" alt="Image Alt Text" width="500" height="300" />
+   
    - 목표: 적 건물 모두 부수기
    - 배경: 협곡행성
 
@@ -69,7 +73,7 @@
 
 ### 5. **5미션: 최후의 결전**
 
-    <img src="images/미션5.png" alt="Image Alt Text" width="500" height="300" />
+  <img src="images/미션5.png" alt="Image Alt Text" width="500" height="300" />
     
    - 목표: 적 사령부 부수기
    - 배경: 도시행성  
