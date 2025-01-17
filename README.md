@@ -132,11 +132,12 @@
   - 점령 상태 색상 표시 (중립 → 파랑/빨강 → 중립)
 - **건물 건설**
   
-  <div style="display: flex; justify-content: space-between;">
-    <img src="images/건물건설.png" alt="Image 1" width="30%" />
-    <img src="images/건물건설2.png" alt="Image 2" width="30%" />
-    <img src="images/건물건설3.png" alt="Image 3" width="30%" />
-  </div>
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="images/건물건설.png" alt="Image 1" width="40%" />
+  <img src="images/건물건설2.png" alt="Image 2" width="40%" />
+  <img src="images/건물건설3.png" alt="Image 3" width="40%" />
+</div>
+
 
 <건설모드>, <건물 건설>, <건설 실패>
 
