@@ -45,7 +45,7 @@
    - 배경: 사막행성
 ##
 4. **4미션: 반격 준비**
-   <img src="images/미션4png" alt="Image Alt Text" width="500" height="300" />
+   <img src="images/미션4.png" alt="Image Alt Text" width="500" height="300" />
    - 목표: 적 건물 모두 부수기
    - 배경: 암석 행성
 ##
