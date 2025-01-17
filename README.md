@@ -93,7 +93,9 @@
 
    ![Image Alt Text](images/미션5시작화면.png)
 
-### 5. **승리 화면**
+##
+
+### 6. **승리 화면**
 
 ![Image Alt Text](images/승리화면.png)
 
