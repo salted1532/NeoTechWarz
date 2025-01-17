@@ -90,7 +90,6 @@
 
 ## 게임 기능
 ### 조작
-   <img src="images/유닛기능.png" alt="Image Alt Text" width="500" height="500" />
 - **유닛 선택 및 명령**
   - **좌클릭:** 유닛 선택
   - **Shift + 좌클릭:** 선택 해제/추가
