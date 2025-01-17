@@ -28,7 +28,7 @@
 ## 캠페인 구성
 ### 네오 테라 연합 (NTA)
 1. **1미션: 새로운 시작**
-   ![Image Alt Text](images/미션1.png)
+   <img src="images/미션1.png" alt="Image Alt Text" width="500" height="300" />
    - 목표: 100 가스 모으기, 적 건물 모두 부수기
    - 배경: 초원행성
 ##
