@@ -124,7 +124,7 @@
 ### 시스템
 - **자원 채취**
 
-<img src="images/자원재취.png" alt="Image Alt Text" width="500" height="300" />
+![Image Alt Text](images/자원재취.png)
 
   - 유닛이 자원으로 이동해 일정 시간 채취 후 가장 가까운 기지로 귀환
 - **점령 시스템**
@@ -144,7 +144,7 @@
   - 건물이 이미 지어진 곳에는 건물을 겹쳐 지을 수 없습니다.
 - **유닛 생산**
   
-<img src="images/유닛생산.png" alt="Image Alt Text" width="500" height="300" />
+![Image Alt Text](images/유닛생산.png)
   
   - 건설한 건물에서 유닛을 생산 가능
 
