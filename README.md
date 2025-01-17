@@ -28,7 +28,7 @@
 - 각 미션을 완료하며 적군과의 전쟁을 승리로 이끌어야 합니다.
 - 자원 채취, 기지 건설, 유닛 생산, 점령 시스템 등 다양한 요소를 활용합니다.
 
-<img src="images/플레이방법.png" alt="Image Alt Text" width="500" height="300" />
+ ![Image Alt Text](images/플레이방법.png)
 
 ---
 
