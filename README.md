@@ -116,17 +116,16 @@
   - 점령 상태 색상 표시 (중립 → 파랑/빨강 → 중립)
 - **건물 건설**
   <div style="display: flex; justify-content: space-between;">
-  <img src="images/건물건설.png" alt="Image 1" width="30%" />
-  <img src="images/건물건설2.png" alt="Image 2" width="30%" />
-  <img src="images/건물건설3.png" alt="Image 3" width="30%" />
-</div>
-  - 점령된 거점 주변으로 건물을 지을수 있습니다.
+    <img src="images/건물건설.png" alt="Image 1" width="30%" />
+    <img src="images/건물건설2.png" alt="Image 2" width="30%" />
+    <img src="images/건물건설3.png" alt="Image 3" width="30%" />
+  </div>
+  - 점령된 거점 주변으로 건물을 지을 수 있습니다.
   - 건물이 이미 지어진 곳에는 건물을 겹쳐 지을 수 없습니다.
 - **유닛 생산**
   <img src="images/유닛생산.png" alt="Image Alt Text" width="500" height="300" />
   - 건설한 건물에서 유닛을 생산 가능
 
----
 
 ## 주요 시스템
 ### 자원 시스템
