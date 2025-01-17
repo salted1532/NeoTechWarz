@@ -34,23 +34,23 @@
    - 배경: 초원행성
 ##
 2. **2미션: 첫 충돌**
-   ![Image Alt Text](images/미션2.png)
+   <img src="images/미션2.png" alt="Image Alt Text" width="500" height="300" />
    - 목표: 적 건물 모두 부수기
    - 배경: 협곡행성
 ##
 3. **3미션: 첨단 기술 확보**
-   ![Image Alt Text](images/미션3.png)
+   <img src="images/미션3.png" alt="Image Alt Text" width="500" height="300" />
    - 목표: 유물 3개 확보, 연구소 1개 건설
    - 특수 규칙: 유물은 일꾼이 닿으면 따라다니며, 일꾼이 없어질 경우 원래 자리로 돌아감.
    - 배경: 사막행성
 ##
 4. **4미션: 반격 준비**
-   ![Image Alt Text](images/미션4.png)
+   <img src="images/미션4png" alt="Image Alt Text" width="500" height="300" />
    - 목표: 적 건물 모두 부수기
    - 배경: 암석 행성
 ##
 5. **5미션: 최후의 결전**
-    ![Image Alt Text](images/미션5.png)
+    <img src="images/미션5.png" alt="Image Alt Text" width="500" height="300" />
    - 목표: 적 사령부 부수기
    - 배경: 도시행성  
      ※ 도시 건물 오브젝트 활용
