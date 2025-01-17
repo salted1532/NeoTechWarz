@@ -68,7 +68,7 @@
 
    ![Image Alt Text](images/미션5시작화면.png)
 ##
-### 오메가 코퍼레이션 (OC)
+### 오메가 코퍼레이션 (OC) <미구현>
 1. **1미션: 기업의 야망**
    - 목표: 200 미네랄 모으기, 100 가스 모으기
    - 배경: 용암행성
@@ -91,6 +91,7 @@
 ## 게임 기능
 ### 조작
 - **유닛 선택 및 명령**
+   <img src="images/유닛기능.png" alt="Image Alt Text" width="500" height="300" />
   - **좌클릭:** 유닛 선택
   - **Shift + 좌클릭:** 선택 해제/추가
   - **우클릭:** 이동 및 공격
@@ -108,16 +109,22 @@
 
 ### 시스템
 - **자원 채취**
+  <img src="images/유닛기능.png" alt="Image Alt Text" width="500" height="300" />
   - 유닛이 자원으로 이동해 일정 시간 채취 후 가장 가까운 기지로 귀환
 - **점령 시스템**
   - 특정 범위 내 30초 동안 유지 시 점령
   - 점령 상태 색상 표시 (중립 → 파랑/빨강 → 중립)
 - **건물 건설**
+  <div style="display: flex; justify-content: space-between;">
+  <img src="images/건물건설.png" alt="Image 1" width="30%" />
+  <img src="images/건물건설2.png" alt="Image 2" width="30%" />
+  <img src="images/건물건설3.png" alt="Image 3" width="30%" />
+</div>
   - 점령된 거점 주변으로 건물을 지을수 있습니다.
   - 건물이 이미 지어진 곳에는 건물을 겹쳐 지을 수 없습니다.
 - **유닛 생산**
-  - 건물(여왕)이 일정 시간마다 선택된 유닛 생산
-  - 생산 유닛 교체 가능
+  <img src="images/유닛생산.png" alt="Image Alt Text" width="500" height="300" />
+  - 건설한 건물에서 유닛을 생산 가능
 
 ---
 
