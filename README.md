@@ -43,6 +43,8 @@
   
    ![Image Alt Text](images/미션1시작화면.png)
 
+##
+
 ### 2. **2미션: 첫 충돌**
 
    <img src="images/미션2.png" alt="Image Alt Text" width="500" height="300" />
@@ -51,6 +53,8 @@
    - 배경: 협곡행성
 
    ![Image Alt Text](images/미션2시작화면.png)
+
+##
 
 ### 3. **3미션: 첨단 기술 확보**
 
@@ -62,6 +66,8 @@
 
    ![Image Alt Text](images/미션3시작화면.png)
 
+##
+
 ### 4. **4미션: 반격 준비**
 
    <img src="images/미션4.png" alt="Image Alt Text" width="500" height="300" />
@@ -71,6 +77,8 @@
 
    ![Image Alt Text](images/미션4시작화면.png)
 
+##
+
 ### 5. **5미션: 최후의 결전**
 
   <img src="images/미션5.png" alt="Image Alt Text" width="500" height="300" />
@@ -79,7 +87,9 @@
    - 배경: 도시행성  
 
    ![Image Alt Text](images/미션5시작화면.png)
+   
 ##
+
 ### 오메가 코퍼레이션 (OC) <미구현>
 1. **1미션: 기업의 야망**
    - 목표: 200 미네랄 모으기, 100 가스 모으기
@@ -127,9 +137,15 @@
 ![Image Alt Text](images/자원재취.png)
 
   - 유닛이 자원으로 이동해 일정 시간 채취 후 가장 가까운 기지로 귀환
+    
+##
+
 - **점령 시스템**
   - 특정 범위 내 30초 동안 유지 시 점령
   - 점령 상태 색상 표시 (중립 → 파랑/빨강 → 중립)
+ 
+##
+  
 - **건물 건설**
   
 <div style="display: flex; justify-content: space-between; gap: 10px;">
@@ -143,12 +159,16 @@
 
   - 점령된 거점 주변으로 건물을 지을 수 있습니다.
   - 건물이 이미 지어진 곳에는 건물을 겹쳐 지을 수 없습니다.
+
+##
+
 - **유닛 생산**
   
 ![Image Alt Text](images/유닛생산.png)
   
   - 건설한 건물에서 유닛을 생산 가능
 
+##
 
 ## 주요 시스템
 ### 자원 시스템
